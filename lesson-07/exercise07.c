@@ -1,7 +1,3 @@
-/*
- * 基礎プログラミングII — 第7回 演習
- * テーマ: malloc を使ってスクーミーの LED シーケンスを動的管理する
- */
 
 #include <stdio.h>
 #include <stdlib.h>
