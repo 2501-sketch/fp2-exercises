@@ -48,7 +48,7 @@ int main(void) {
     printf("\n--- 登録した LED シーケンス ---\n");
     for (int i = 0; i < n; i++) {
         printf("パターン%d: ピン%dを%dms点灯\n",
-               i + 1,
+               i + 1,ああああああ
                patterns[i].pin,
                patterns[i].duration);
     }
